@@ -1,5 +1,5 @@
 /* =============================================
-   BRUNA GRACIELE — Portfolio 2025 | script.js
+   BRUNA GRACIELE — Portfolio 2026 | script.js
 ============================================= */
 
 
